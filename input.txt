@@ -1,0 +1,6 @@
+123456,John,905-343-5467,needs RAM,150
+234569,Sara,905-112-3423,replace HDD,200
+345123,Suzan,905-115-2999,battery,50
+987654,Suzan,905-115-2999,screen,170
+776655,John,905-343-5467,needs repair,70
+
